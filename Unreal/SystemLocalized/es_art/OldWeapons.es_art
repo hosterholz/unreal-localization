@@ -118,7 +118,7 @@ ItemName="Caja de Balas"
 
 [OldRifleAmmo]
 ; EN: PickupMessage="You got 8 Rifle Rounds"
-PickupMessage="Tienes 8 Cartuchos para el Rifle"
+PickupMessage="Conseguiste 8 Cartuchos para el Rifle"
 ; EN: ItemName="Rifle Rounds"
 ItemName="Cartuchos de Rifle"
 
@@ -130,7 +130,7 @@ ItemName="Mejorador de Pistola de Dispersión"
 
 [OldFlakBox]
 ; EN: PickupMessage="You picked up 10 Flak Shells"
-PickupMessage="Tienes 10 Proyectiles de Metralla"
+PickupMessage="Conseguiste 10 Proyectiles de Metralla"
 ; EN: ItemName="Flak Shells"
 ItemName="Proyectiles de Metralla"
 
@@ -188,13 +188,13 @@ ItemName="Cartucho"
 
 [OldRifleRound]
 ; EN: PickupMessage="You got a Rifle Round"
-PickupMessage="Tienes un Cartucho para el Rifle"
+PickupMessage="Conseguiste un Cartucho para el Rifle"
 ; EN: ItemName="Rifle Round"
 ItemName="Cartucho de Rifle"
 
 [OldFlakShellAmmo]
 ; EN: PickupMessage="You got a Flak Shell"
-PickupMessage="Tienes un Proyectil de Metralla"
+PickupMessage="Conseguiste un Proyectil de Metralla"
 ; EN: ItemName="Flak Shell"
 ItemName="Proyectil de Metralla"
 

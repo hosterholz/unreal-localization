@@ -165,7 +165,7 @@ NextTrackHint="Pista siguiente"
 ; EN: ShuffleText="Shuffle playlist"
 ShuffleText="Aleatorizar lista"
 ; EN: ShuffleHint="Next track is always selected at random."
-ShuffleHint="La próxima pista se seleccionará siempre al azar."
+ShuffleHint="Elige aleatoriamente la próxima canción a ser tocada."
 
 [UWindowNetErrorWindow]
 ; EN: WindowTitle="Player Network error status"
