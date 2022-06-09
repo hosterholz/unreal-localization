@@ -41,7 +41,7 @@ Preferences=(Caption="Darkmatch Maps",Parent="Map Lists",Langcaption="Mapas de P
 
 [IntroNullHud]
 ; EN: ESCMessage="Press ESC to begin"
-ESCMessage="Pulsa ESC para comenzar"
+ESCMessage="Apretá ESC para comenzar"
 
 [Queen]
 ; EN: NameArticle=" the "

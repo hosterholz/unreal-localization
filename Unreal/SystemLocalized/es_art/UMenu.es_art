@@ -77,9 +77,9 @@ LanPlayHelp="Si se activa, tu servidor dedicado será optimizado para jugar en u
 
 [UMenuStatusBar]
 ; EN: DefaultHelp="Press ESC to return to the game"
-DefaultHelp="Pulsa ESC para regresar a la partida"
+DefaultHelp="Apretá ESC para volver a la partida"
 ; EN: DefaultIntroHelp="Use the Game menu to start a new game."
-DefaultIntroHelp="Utiliza el menú de juego para comenzar una nueva partida."
+DefaultIntroHelp="Usá el menú de juego para empezar una nueva partida."
 
 [UMenuGameSettingsBase]
 ; EN: StyleText="Game Style:"
@@ -149,7 +149,7 @@ CantSave="Imposible Guardar: estás muerto."
 ; EN: DedicatedText="Dedicated"
 DedicatedText="Dedicado"
 ; EN: DedicatedHelp="Press to launch a dedicated server."
-DedicatedHelp="Pulsa para iniciar un servidor dedicado."
+DedicatedHelp="Apretá para empezar un servidor dedicado."
 ; EN: ServerText="Server"
 ServerText="Servidor"
 
@@ -157,7 +157,7 @@ ServerText="Servidor"
 ; EN: RestartText="Restart"
 RestartText="Reiniciar"
 ; EN: RestartHelp="Press to restart the current level."
-RestartHelp="Pulsa aquí para reiniciar el nivel en curso."
+RestartHelp="Apretá acá para reiniciar el nivel en curso."
 
 [UMenuOptionsWindow]
 WindowWidth=300
@@ -1099,7 +1099,7 @@ EditAreaWidth=120
 ; EN: LanguageText="Language"
 LanguageText="Idioma"
 ; EN: LanguageHelp="This is the current game language. Change it and press Restart button in order to apply changes."
-LanguageHelp="Este es el idioma actual del juego. Cámbialo y pulsa Reiniciar para aplicar los cambios."
+LanguageHelp="Este es el idioma actual del juego. Cambialo y apretá Reiniciar para aplicar los cambios."
 ; EN: ConsoleText="Console"
 ConsoleText="Consola"
 ; EN: ConsoleHelp="This option determines the look of console and menus. Press Restart button to apply the changes."
@@ -1251,7 +1251,7 @@ ConfirmRawHIDText="Para activar/desactivar la Entrada Cruda de Ratón HID, esta 
 ; EN: DodgingText="Dodging"
 DodgingText="Maniobra"
 ; EN: DodgingHelp="If checked, double tapping the movement keys (forward, back, and strafe left or right) will result in a fast dodge move."
-DodgingHelp="Si se activa, tu personaje hará una maniobra evasiva al pulsar dos veces una tecla de movimiento (adelante, atrás o desplazamiento lateral izquierdo/derecho)."
+DodgingHelp="Si se activa, tu personaje va a hacer una maniobra evasiva al apretar dos veces una tecla de movimiento (adelante, atrás o desplazamiento lateral izquierdo/derecho)."
 ; EN: DodgeClickTimeText="Dodge Click Time"
 DodgeClickTimeText="Tiempo de Maniobra"
 ; EN: DodgeClickTimeHelp="Maximal double click interval in seconds for dodge move."
@@ -1285,7 +1285,7 @@ MessageBeepHelp="Si se activa, oirás un pitido cada vez que recibas un mensaje 
 ; EN: DriverText="Audio Driver"
 DriverText="Controlador de Sonido"
 ; EN: DriverHelp="This is the current audio driver. Press the Restart button in order to pick a different sound driver."
-DriverHelp="Este es el controlador de audio actual. Pulsa el botón Reiniciar para elegir un controlador de sonido diferente."
+DriverHelp="Este es el controlador de audio actual. Apretá el botón Reiniciar para elegir un controlador de sonido diferente."
 ; EN: ConfirmDriverTitle="Change Audio Driver..."
 ConfirmDriverTitle="Cambiar Controlador de Sonido..."
 ; EN: ConfirmDriverText="Do you want to restart Unreal with the selected audio driver?"
@@ -1448,11 +1448,11 @@ MonthNames[10]="Noviembre"
 ; EN: MonthNames[11]="December"
 MonthNames[11]="Diciembre"
 ; EN: SlotHelp="Press to activate this slot. (Save/Load)"
-SlotHelp="Pulsa aquí para activar esta ranura. (Guardar/Cargar)"
+SlotHelp="Apretá acá para activar esta ranura. (Guardar/Cargar)"
 ; EN: FoundOldGameSavesTitle="Old game saves found..."
 FoundOldGameSavesTitle="Partidas antiguas encontradas..."
 ; EN: FoundOldGameSavesText="Found some game saves created with an older engine version than the current. These files are unusable now with this version."
-FoundOldGameSavesText="Se han encontrado algunas partidas creadas con versiones anteriores del juego. Estas partidas guardadas no podrán utilizarse en esta versión."
+FoundOldGameSavesText="Se encontraron algunas partidas creadas con versiones anteriores del juego. Estas partidas guardadas no se podrán usar en esta versión."
 
 [UMenuHelpMenu]
 ; EN: ContextName="&Context Help"
